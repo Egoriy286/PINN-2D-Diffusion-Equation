@@ -1,0 +1,1 @@
+1. Raissi M., Perdikaris P., Karniadakis G. E. Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations //arXiv preprint arXiv:1711.10561. – 2017.
